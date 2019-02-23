@@ -1,4 +1,4 @@
 name: Adjian Castalla
 markdown: kramdown
 exclude: ["node_modules", "gulpfile.js", "package.json"]
-baseurl: '/'
+baseurl: '/sleek_blog'
